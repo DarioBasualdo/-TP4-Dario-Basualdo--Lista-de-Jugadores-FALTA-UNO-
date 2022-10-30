@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\BackEnd\obj\Debug\BackEnd.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\BackEnd\obj\Debug\BackEnd.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\BackEnd\bin\Debug\BackEnd.pdb

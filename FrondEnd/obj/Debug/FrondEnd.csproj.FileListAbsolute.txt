@@ -1,0 +1,36 @@
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\bin\Debug\FrondEnd.exe.config
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\bin\Debug\FrondEnd.exe
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\bin\Debug\FrondEnd.pdb
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\bin\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\bin\Debug\BackEnd.pdb
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.exe
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.pdb
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.EquipoA.resources
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.EquipoB.resources
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.Inicio.resources
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.Menu.resources
+C:\Users\USUARIO\Desktop\2 equipos\FrondEnd\FrondEnd\obj\Debug\FrondEnd.VerEquipos.resources
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.EquipoA.resources
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.EquipoB.resources
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.Inicio.resources
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.Menu.resources
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.VerEquipos.resources
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.exe
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.pdb
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\bin\Debug\FrondEnd.exe.config
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\bin\Debug\FrondEnd.exe
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\bin\Debug\FrondEnd.pdb
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\bin\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\bin\Debug\BackEnd.pdb
+C:\Users\USUARIO\Desktop\2 equipos\Lista de Jugadores\FrondEnd\obj\Debug\FrondEnd.csproj.CopyComplete
